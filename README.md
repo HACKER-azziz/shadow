@@ -1,6 +1,5 @@
 # shadow
 make a pyload for external hacking
-
 #Haw to install for linux
 git clone https://github.com/HACKER-azziz/shadow.git
 cd shadow
